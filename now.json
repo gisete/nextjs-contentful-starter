@@ -3,8 +3,4 @@
     "builds": [
       { "src": "package.json", "use": "@now/next" }
     ],
-    "env": {
-        "CTF_SPACE_ID": "@ctf_space_id",
-        "CTF_CPA_TOKEN": "@ctf_cpa_token"
-      }
   }
