@@ -70,17 +70,24 @@
       "static/Ku2wJ_vRIjLJt4r7XPn3G/pages/post.js": 10,
       "static/Ku2wJ_vRIjLJt4r7XPn3G/pages/_app.js": 11,
       "static/Ku2wJ_vRIjLJt4r7XPn3G/pages/_error.js": 12,
-      "static/Ku2wJ_vRIjLJt4r7XPn3G/pages/_document.js": 13
+      "static/Ku2wJ_vRIjLJt4r7XPn3G/pages/_document.js": 13,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/about.js": 0,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/index.js": 1,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/podcast.js": 2,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/post.js": 3,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/_app.js": 4,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/_error.js": 5,
+      "static/Facl55LS6EVZVnyQBNp5~/pages/_document.js": 6
     },
     "bySource": {},
     "usedIds": [
-      10,
-      11,
-      12,
-      13,
-      7,
-      8,
-      9
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
     ]
   }
 }
